@@ -1,0 +1,10 @@
+"Hello",
+"do you want to consult the doctor",
+"yes",
+"At what slot you want to book,1) 1-4P.M. 2)4-5P.M.",
+" 1-4P.M.",
+"TELL ME YOUR NAME PLS",
+"Biswajit",
+"TELL ME YOUR email PLS",
+"roybiswajit010@gmail.com"
+"Thank you , ur slot is booked",
